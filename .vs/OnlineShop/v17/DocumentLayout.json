@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5174E54-75FD-4522-B507-33D82CD5B262}|OnlineShopApplication\\OnlineShopApplication.csproj|c:\\users\\ozhan\\desktop\\onlineshop-olineshopservice\\onlineshopapplication\\services\\usermanagmentservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5174E54-75FD-4522-B507-33D82CD5B262}|OnlineShopApplication\\OnlineShopApplication.csproj|solutionrelative:onlineshopapplication\\services\\usermanagmentservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5174E54-75FD-4522-B507-33D82CD5B262}|OnlineShopApplication\\OnlineShopApplication.csproj|c:\\users\\ozhan\\desktop\\onlineshop-olineshopservice\\onlineshopapplication\\services\\saleservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5174E54-75FD-4522-B507-33D82CD5B262}|OnlineShopApplication\\OnlineShopApplication.csproj|solutionrelative:onlineshopapplication\\services\\saleservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5174E54-75FD-4522-B507-33D82CD5B262}|OnlineShopApplication\\OnlineShopApplication.csproj|c:\\users\\ozhan\\desktop\\onlineshop-olineshopservice\\onlineshopapplication\\dtos\\usermanagementappdto\\userappdto\\putuserappdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5174E54-75FD-4522-B507-33D82CD5B262}|OnlineShopApplication\\OnlineShopApplication.csproj|solutionrelative:onlineshopapplication\\dtos\\usermanagementappdto\\userappdto\\putuserappdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5174E54-75FD-4522-B507-33D82CD5B262}|OnlineShopApplication\\OnlineShopApplication.csproj|c:\\users\\ozhan\\desktop\\onlineshop-olineshopservice\\onlineshopapplication\\dtos\\usermanagementappdto\\userappdto\\getuserappdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5174E54-75FD-4522-B507-33D82CD5B262}|OnlineShopApplication\\OnlineShopApplication.csproj|solutionrelative:onlineshopapplication\\dtos\\usermanagementappdto\\userappdto\\getuserappdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0911B5B9-E092-4FE7-9C51-67C3C0E2042D}|OnlineShop.BackOffice.WebApiEndPoint\\OnlineShop.BackOffice.WebApiEndPoint.csproj|c:\\users\\ozhan\\desktop\\onlineshop-olineshopservice\\onlineshop.backoffice.webapiendpoint\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0911B5B9-E092-4FE7-9C51-67C3C0E2042D}|OnlineShop.BackOffice.WebApiEndPoint\\OnlineShop.BackOffice.WebApiEndPoint.csproj|solutionrelative:onlineshop.backoffice.webapiendpoint\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0911B5B9-E092-4FE7-9C51-67C3C0E2042D}|OnlineShop.BackOffice.WebApiEndPoint\\OnlineShop.BackOffice.WebApiEndPoint.csproj|c:\\users\\ozhan\\desktop\\onlineshop-olineshopservice\\onlineshop.backoffice.webapiendpoint\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0911B5B9-E092-4FE7-9C51-67C3C0E2042D}|OnlineShop.BackOffice.WebApiEndPoint\\OnlineShop.BackOffice.WebApiEndPoint.csproj|solutionrelative:onlineshop.backoffice.webapiendpoint\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShop.BackOffice.WebApiEndPoint\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.BackOffice.WebApiEndPoint\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShop.BackOffice.WebApiEndPoint\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OnlineShop.BackOffice.WebApiEndPoint\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:28:02.81Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PutUserAppDto.cs",
+              "DocumentMoniker": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShopApplication\\Dtos\\UserManagementAppDto\\UserAppDto\\PutUserAppDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApplication\\Dtos\\UserManagementAppDto\\UserAppDto\\PutUserAppDto.cs",
+              "ToolTip": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShopApplication\\Dtos\\UserManagementAppDto\\UserAppDto\\PutUserAppDto.cs",
+              "RelativeToolTip": "OnlineShopApplication\\Dtos\\UserManagementAppDto\\UserAppDto\\PutUserAppDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:46:01.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShopApplication\\Services\\UserManagmentServices\\UserService.cs",
+              "RelativeDocumentMoniker": "OnlineShopApplication\\Services\\UserManagmentServices\\UserService.cs",
+              "ToolTip": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShopApplication\\Services\\UserManagmentServices\\UserService.cs",
+              "RelativeToolTip": "OnlineShopApplication\\Services\\UserManagmentServices\\UserService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwGoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:44:18.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserAppDto.cs",
+              "DocumentMoniker": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShopApplication\\Dtos\\UserManagementAppDto\\UserAppDto\\GetUserAppDto.cs",
+              "RelativeDocumentMoniker": "OnlineShopApplication\\Dtos\\UserManagementAppDto\\UserAppDto\\GetUserAppDto.cs",
+              "ToolTip": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShopApplication\\Dtos\\UserManagementAppDto\\UserAppDto\\GetUserAppDto.cs",
+              "RelativeToolTip": "OnlineShopApplication\\Dtos\\UserManagementAppDto\\UserAppDto\\GetUserAppDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:08:24.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShopApplication\\Services\\SaleServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "OnlineShopApplication\\Services\\SaleServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShopApplication\\Services\\SaleServices\\ProductService.cs",
+              "RelativeToolTip": "OnlineShopApplication\\Services\\SaleServices\\ProductService.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAIwEYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:05:50.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShop.BackOffice.WebApiEndPoint\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.BackOffice.WebApiEndPoint\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ozhan\\Desktop\\OnlineShop-OlineShopService\\OnlineShop.BackOffice.WebApiEndPoint\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OnlineShop.BackOffice.WebApiEndPoint\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:00:46.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
